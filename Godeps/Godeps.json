@@ -1,0 +1,22 @@
+{
+	"ImportPath": "scanscan",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/boombuler/barcode",
+			"Comment": "v1.0.0-8-g34fff27",
+			"Rev": "34fff276c74eba9c3506f0c6f4064dbaa67d8da3"
+		},
+		{
+			"ImportPath": "github.com/boombuler/barcode/qr",
+			"Comment": "v1.0.0-8-g34fff27",
+			"Rev": "34fff276c74eba9c3506f0c6f4064dbaa67d8da3"
+		},
+		{
+			"ImportPath": "github.com/boombuler/barcode/utils",
+			"Comment": "v1.0.0-8-g34fff27",
+			"Rev": "34fff276c74eba9c3506f0c6f4064dbaa67d8da3"
+		}
+	]
+}
